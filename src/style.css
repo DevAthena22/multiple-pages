@@ -1,0 +1,12 @@
+body {
+  background-color: rgb(255, 246, 127);
+}
+
+h1,
+p {
+  text-align: left;
+}
+
+.information a {
+  margin: 0 10px;
+}
